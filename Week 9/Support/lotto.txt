@@ -1,0 +1,5 @@
+Write a program that generates 3 random numbers (1-10).
+Allow the user to enter 3 guesses.
+Tell the user how many answers they have correct.
+
+(Bonus, keep looping until the user gets all 3 correct).

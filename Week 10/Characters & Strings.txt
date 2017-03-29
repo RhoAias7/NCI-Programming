@@ -1,0 +1,19 @@
+1. String word; - Declaring
+    Word = " "; - Assigning
+	          word
+	          Lisa
+
+2.Char letter; - Declaring
+   Letter = ' '; - Assigning
+	         letter
+	         a
+
+Each letter has its own index
+	01234
+	Apple
+methods to use with Strings
+
+length: gets the length of the word
+CharAt Access a particular Character/letter in the index
+Zero(0) bring us to the  first character.
+len-1 last character in the word					

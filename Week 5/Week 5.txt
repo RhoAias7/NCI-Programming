@@ -1,0 +1,13 @@
+Create an application called weekly wage, the application shoud ask the user for their name and what they are paid each day and how many days they are working. The application should output their name along with their name along with their weekly wage.
+
+Input
+
+3 questions - 3 setters, 3 inputs
+
+Process
+
+AmountPaid*day
+
+Output 
+
+2 outputs, 2 getters, 2 setters

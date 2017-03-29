@@ -1,0 +1,34 @@
+Loop
+
+4 stages of a loop
+
+1. Initialisation - Where the loop starts
+
+2. Termination - Where the counter ends
+
+3. Progression - How the counter gets from end another (start to finish)
+
+4. Action - What line of code do you want to repeat
+
+				For Loop
+
+for(I; T; P){
+	A;
+}
+
+				While Loop
+
+I;
+while(T){
+	A;
+	P;	
+}
+
+				Do while loop
+
+I;
+do{
+	A;
+	P;
+}
+while(T);

@@ -1,0 +1,7 @@
+Class name should always start with a capital letter.
+
+Everytime you have an app program you write this line of code: 	public status void main(String[] args)
+
+A single equals is an assignment operator
+
+A double equals is a comparative operator

@@ -1,0 +1,3 @@
+sweetShop: What we did
+
+We brought int the utility package which import java.util.*;, we then declare our variables using the double to store the cost of the item.We then assigned our variables but turning our items into zero to allow for user input. We had then brought in our object which is the scanner class. Scanner keyboard; keyboard is thee name we have given it. We then Assigned the keyboard to allow for user input keyboard=new Scanner(System.in);. We then asked the use a question.lollies=keyboard.nextIn();
