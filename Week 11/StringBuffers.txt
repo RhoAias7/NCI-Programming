@@ -1,0 +1,11 @@
+1.) Create a StringBuffer
+	StringBuffer strBuff
+
+2.) Assign a StringBuffer
+	strBuff = new StringBuffer();
+
+3.) Add a character 
+	append() adds a character
+	example: strBuff.append(a);
+
+4.)toString() converts back to a string
